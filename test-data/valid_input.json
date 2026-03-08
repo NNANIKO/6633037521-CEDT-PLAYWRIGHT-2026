@@ -1,0 +1,10 @@
+{
+	"facility": "Seoul CURA Healthcare Center",
+	"readmission": true,
+	"healthcareProgram": "None",
+	"visitDate": {
+		"day": "15",
+		"month": "Mar"
+	},
+	"comment": "This is Playwright Testing."
+}
