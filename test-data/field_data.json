@@ -1,0 +1,25 @@
+{
+	"facility": { "label": "Facility" },
+	"readmission": {
+		"role": "checkbox",
+		"name": "Apply for hospital readmission"
+	},
+	"healthcareProgram": { "role": "radio" },
+	"visitDate": {
+		"locator": ".input-group-addon",
+		"month": {
+			"role": "columnheader"
+		},
+		"day": {
+			"role": "cell"
+		}
+	},
+	"comment": {
+		"role": "textbox",
+		"name": "Comment"
+	},
+	"submit": {
+		"role": "button",
+		"name": "Book Appointment"
+	}
+}
